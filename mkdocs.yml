@@ -1,8 +1,8 @@
 # Project information
-site_name: My Cheatsheets
-site_url: https://valsells.me/mycheatsheets/
-site_author: Marc Valsells Niubó
-site_description: In this site I will be adding commands cheatsheets that I think they will be useful me and others
+site_name: My Projects & Notes
+site_url: https://ignasi.blasi/myprojects&notes/
+site_author: Ignasi Blasi
+site_description: In this site I will be adding commands, notes and projects that I think they will be useful
 
 theme:
   name: material
@@ -16,8 +16,8 @@ plugins:
   - git-revision-date
 
 #Respository
-repo_name: mvalsells/mycheatsheets
-repo_url: https://github.com/mvalsells/mycheatsheets
+repo_name: ignasiblasimoreno/ignasiblasi
+repo_url: https://github.com/ignasiblasimoreno/ignasiblasi
 edit_uri: edit/main/docs
 
 
