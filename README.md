@@ -2,7 +2,7 @@
 
 In this repo I will be adding commands, notes and projects that I think they will be useful for me (and others).
 
-[Projects & Notes](ignasiblasi\docs\index.md)
+[Projects & Notes](docs/index.md)
 
 Contributions and suggestions are welcome via PR and project issues. CONTRIBUTING.md for details to be done.
 
