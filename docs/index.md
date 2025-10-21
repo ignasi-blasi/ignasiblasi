@@ -20,4 +20,4 @@ Contributors names and contact info
 
 ## License
 
-This project is licensed under the Apache-2.0 License - see the [license page](LICENSE) for details.
+This project is licensed under the Apache-2.0 License - see the [license page](/LICENSE) for details.
